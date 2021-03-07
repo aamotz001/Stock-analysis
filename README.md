@@ -60,9 +60,10 @@ __Figure 3.b: Stock data 2018 Original Runtime__
 
 ### What are advantages/disadvantages of refactoring code
 
-The obvious advantage of 
+The obvious advantage of refactoring a code is that it requires much less time to finish the calculations, compared to the disadvantage of the original code being slower. However the disadvantage of refactoring the code  is that it became less robust, and now depends on all the information being grouped by the ticker name. If we were to apply the code to a new spreadsheet that was not sorted in such a way, we would not get the right answer without first spending time formatting the notebook to match what the refactored code expects. 
 
 ### How do these pros and cons apply to refactoring the original VBA script
 
+Due to the scale of this worksheet, the difference in time is rather negligable (less than a second difference between the two modalities), and so it may  not be a huge adHvantage to use the refactored code. owever, if we did get a notebook which looked at say, 500 companies rather than just 12, the advantage of the refactored code would become very obvious. H
 
 
