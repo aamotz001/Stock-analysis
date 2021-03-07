@@ -11,7 +11,8 @@ Further, we provide two versions of the VBA macros, one which simply gets the jo
 
 As mentioned above, we will calculate two parameters in order to analyze the stock performances of the 12 companies:
 
-1. __Total Daily Volume__ 
+1. __Total Daily Volume__  The total daily volume refers to the sum of all the stocks that were traded that day. It can indicate the health of a stock, as higher volumes indicate more interest in that particular company. [Read more here](https://www.investorsunderground.com/stock-volume/)
+2. __Percent Return__
 
 ## Results
 
