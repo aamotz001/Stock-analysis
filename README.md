@@ -33,7 +33,7 @@ __Figure 2: Stock data 2018__
 ![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 __Figure 3a: Stock data 2018 Refactored Runtime__
 
-![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_old_2017.png)
+![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_OLD_2017.png)
 __Figure 3b: Stock data 2018 Refactored Runtime__
 
 ![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
