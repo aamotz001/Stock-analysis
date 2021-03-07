@@ -24,11 +24,13 @@ The percent return of a stock indicates net growth or net loss of a stock over a
 First we want to use our analysis to assess the stock performance of the 12 companies of interest. Below, the results of the calculations for the two years are given (Fig 1 shows 2017 and Fig 2 shows 2018).
 
 ![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/Stocks_2017.png)
+
 __Figure 1: Stock data 2017__
 
 Figure 1 shows that overall, the companies did fairly well, with only the "TERP" ticker showing a negative return (and even so, at roughly 7% it is not catastrophic). As well, the total daily volumes are of large magnitude, assuring us that our results are relevant on a large scale. 
 
 ![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/Stocks_2018.png)
+
 __Figure 2: Stock data 2018__
 
 Figure 1 shows that overall, the companies did fairly well, with only the "TERP" ticker showing a negative return. As well, the total daily volumes are of large magnitude, assuring us that our results are relevant on a large scale. 
