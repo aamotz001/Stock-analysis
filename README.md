@@ -55,7 +55,7 @@ __Figure 3.b: Stock data 2017 Original Runtime__
 __Figure 4.a: Stock data 2018 Refactored Runtime__
 
 ![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_OLD_2018.png)
-__Figure 3.b: Stock data 2018 Original Runtime__
+__Figure 4.b: Stock data 2018 Original Runtime__
 ## Summary
 
 ### What are advantages/disadvantages of refactoring code
