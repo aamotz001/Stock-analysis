@@ -1,6 +1,6 @@
 # Stock-analysis
 
-## Overview of Project:
+## Overview of Project
 Explain purpose of this analysis
 
 ## Results
