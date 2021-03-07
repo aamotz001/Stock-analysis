@@ -7,7 +7,7 @@ The purpose of our analysis was to help a client, Steve, guide his parents in ma
 
 Further, we provide two versions of the VBA macros, one which simply gets the job done, and another which has been optimized for speed. This way, if Steve needs to apply the method we've provided him to extremely large sets of data in the future, he has a means of reducing the time it takes to run the analysis.
 
->*As a note to the grader, the original "yearAnalysis" subroutine (including a formatting section) is included as module 5 in the .xlsm file, and the refactored code is saved in module 6.*
+>*As a note to the grader, the original "yearAnalysis" subroutine (including a formatting section) is included as module 5 in the VBA_Challenge.xlsm file, and the refactored code is saved in module 6.*
 
 ### Background Information
 
@@ -41,6 +41,10 @@ Overall, based on this analysis, we can advise that "DQ" is likely not the best 
 
 ### Execution Time
 
+Another way in which we used our analysis was to inspect how different styles of writting VBA code can affect the time it takes for the code to run. To do so, we wrote two different codes which accomplished the same task. The first code, called yearValueAnalysis() relies on a nested for loop to first set a ticker of interest (outer for loop) then calculate the relevant parameters by spanning the entire data set (inner for loop). The next analysis was a *refactored* version of the first subroutine which used only one for loop, and depended upon an indexing variable called tickerIndex to determine which part of the code to include in the analysis. In both cases, the timing of each run was determined within the VBA code. The results are compared in Figs 3 & 4 (Figure 3 shows the run times for 2017, and Figure 4 shows it for 2018) and the "a" panel shows the original code versus the refactored code in panel "b". 
+
+We can see from the results that the refactored code is significantly faster. Obviously, the second routine which only uses one for loop and only scans the data set once per iteration is much more efficient, however, it does rely upon the data being grouped according to the ticker name. 
+
 ![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 __Figure 3.a: Stock data 2017 Refactored Runtime__
 
@@ -55,6 +59,8 @@ __Figure 3.b: Stock data 2018 Original Runtime__
 ## Summary
 
 ### What are advantages/disadvantages of refactoring code
+
+The obvious advantage of 
 
 ### How do these pros and cons apply to refactoring the original VBA script
 
