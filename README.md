@@ -14,7 +14,7 @@ As mentioned above, we will calculate two parameters in order to analyze the sto
 1. __Total Daily Volume__  
 The total daily volume refers to the sum of all the stocks that were traded that day. It can indicate the health of a stock, as higher volumes indicate more interest in that particular company ([read more here](https://www.investorsunderground.com/stock-volume/)) In our analysis, we find total daily volume by simply adding all the volume amounts for a given company.
 
-2. __Percent Return__
+2. __Percent Return__  
 The percent return of a stock indicates net growth or net loss of a stock over a given time period ([read more here](https://finance.zacks.com/stock-market-returns-work-6598.html)). It is valuable in assesing the likelyhood that an investment in a company will yield profit. Here, we find the return by looking at the percent difference between the open value on the first date, and the close value of the last date.
 
 ## Results
