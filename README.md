@@ -23,11 +23,18 @@ The percent return of a stock indicates net growth or net loss of a stock over a
 
 First we want to use our analysis to assess the stock performance of the 12 companies of interest. 
 
-![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/Stocks_2017.png)
 __Figure 1: Stock data 2017__
+![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/Stocks_2018.png)
 __Figure 2: Stock data 2018__
 
 ### Execution Time
+
+![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+__Figure 3: Stock data 2018__
+
+![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+__Figure 3: Stock data 2018__
 
 ## Summary
 
