@@ -27,13 +27,15 @@ First we want to use our analysis to assess the stock performance of the 12 comp
 
 __Figure 1: Stock data 2017__
 
-Figure 1 shows that overall, the companies did fairly well, with only the "TERP" ticker showing a negative return (and even so, at roughly 7% it is not catastrophic). As well, the total daily volumes are of large magnitude, assuring us that our results are relevant on a large scale. 
+Figure 1 shows that overall, the companies did fairly well, with only the "TERP" ticker showing a negative return (and even so, at roughly 7% it is not catastrophic). As well, the total daily volumes are of large magnitude, assuring us that our results are relevant on a large scale. The company which Steve parent had chosen ("DQ") seems to have performed well but does have a relatively small total daily volume as compared to other companies in this analysis.
 
 ![alt text](https://github.com/aamotz001/Stock-analysis/blob/main/Resources/Stocks_2018.png)
 
 __Figure 2: Stock data 2018__
 
-Figure 1 shows that overall, the companies did fairly well, with only the "TERP" ticker showing a negative return. As well, the total daily volumes are of large magnitude, assuring us that our results are relevant on a large scale. 
+Figure 2 shows that overall, the year 2018 must have been much harder on green energy companies as a whole, with all but two of them showing negative returns. The percent value of the negative returns are severe, especially for the company of interest "DQ" which shows a massive -63%. 
+
+Overall, based on this analysis, we can advise that "DQ" is likely not the best choice to buy. The best bet would be either "ENPH" or "RUN", which are the only two companies with positive returns for both 2017 and 2018. It would be helpful to look at data for more years, and for different types of companies in order to paint a more clear picture. 
 
 ### Execution Time
 
