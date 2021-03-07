@@ -23,8 +23,8 @@ The percent return of a stock indicates net growth or net loss of a stock over a
 
 First we want to use our analysis to assess the stock performance of the 12 companies of interest. 
 
+![alt text](Resources/Stocks_2017.png)
 __Figure 1: Stock data 2017__
-![alt](Resources/Stocks_2017.png)
 __Figure 2: Stock data 2018__
 
 ### Execution Time
